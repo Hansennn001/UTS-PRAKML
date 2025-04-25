@@ -3,7 +3,7 @@
 
 ## Alhan Husen
 ## 1227050015
-## Prak PM - E 
+## Prak ML - E 
 
 ## Ringkasan Proyek
 Dalam proyek ini, dibangun sebuah model klasifikasi berbasis **Decision Tree** untuk menentukan apakah seseorang dianggap layak memperoleh kredit komputer. Penilaian dilakukan dengan mempertimbangkan beberapa atribut seperti usia, tingkat penghasilan, status sebagai mahasiswa, serta skor kredit.
